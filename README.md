@@ -1,7 +1,7 @@
 # 👋 Hello I am Sean Kim
 
 ## **Personal Website:** ##
-<a href="skim1601.com">
+<a href="https://www.skim1601.com/">
   <img
     alt="SK"
     src="SK-logo.png"
