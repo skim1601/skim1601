@@ -5,7 +5,7 @@
   <img
     alt="SK"
     src="SK-logo.png"
-    width=10rem
+    width=50rem
   />
 </a><br/>
 
