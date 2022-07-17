@@ -1,4 +1,4 @@
-### 👋 Hello I am Sean Kim
+### <title>👋 Hello I am Sean Kim</title>
 Check out my website: skim1601.com
 
 My LinkedIn:
