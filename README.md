@@ -1,6 +1,6 @@
 # 👋 Hello I am Sean Kim
 
-## Computer Engineering Student @ University of Toronto
+Computer Engineering Student @ University of Toronto
 
 ## **Personal Website:** ##
 <a href="https://www.skim1601.com/">
