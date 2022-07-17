@@ -1,6 +1,13 @@
 ### 👋 Hello I am Sean Kim
 Check out my website: skim1601.com
 
+My LinkedIn:
+<a href="https://www.linkedin.com/in/sean-kim-752685212/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 Languages:
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
