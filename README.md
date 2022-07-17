@@ -1,6 +1,6 @@
 # 👋 Hello I am Sean Kim
-## Check out my website: skim1601.com 
-## **LinkedIn:** ##
+
+## **Personal Website:** ##
 <a href="https://www.linkedin.com/in/sean-kim-752685212/">
   <img
     alt="Linkedin"
