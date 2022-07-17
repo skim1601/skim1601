@@ -1,10 +1,11 @@
 # 👋 Hello I am Sean Kim
 
 ## **Personal Website:** ##
-<a href="https://www.linkedin.com/in/sean-kim-752685212/">
+<a href="skim1601.com">
   <img
-    alt="Linkedin"
-    src="sk-logo.png"
+    alt="SK"
+    src="SK-logo.png"
+    width=10rem
   />
 </a><br/>
 
