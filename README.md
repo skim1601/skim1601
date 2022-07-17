@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello I am Sean Kim
+Check out my website: skim1601.com
 
 <!--
 **skim1601/skim1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
