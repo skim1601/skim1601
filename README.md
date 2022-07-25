@@ -31,4 +31,4 @@ Computer Engineering Student @ University of Toronto
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skim1601)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skim1601&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
