@@ -32,3 +32,4 @@ Computer Engineering Student @ University of Toronto
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skim1601&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skim1601&repo=sean-kim-website)](https://github.com/anuraghazra/github-readme-stats)
